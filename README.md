@@ -1,4 +1,8 @@
-### Hi there 👋
+### Ciao 👋
+
+Welcome to my GitHub home.
+
+My name is Daniele Salatti, and I work as a Software Engineer at Facebook in Seattle.
 
 <!--
 **DanieleSalatti/DanieleSalatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
