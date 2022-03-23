@@ -5,7 +5,7 @@
   
   Benvenuto sulla mia pagina GitHub!
   
-  Mi chiamo Daniele Salatti, e lavoro come Software Engineer per Facebook a Seattle.
+  Mi chiamo Daniele Salatti, e sono un Software Engineer.
   
 </details>
 
@@ -14,7 +14,7 @@
   
   Welcome to my GitHub home!
   
-  My name is Daniele Salatti, and I work as a Software Engineer at Facebook in Seattle.
+  My name is Daniele Salatti, and I am a Software Engineer.
   
 </details>
 
