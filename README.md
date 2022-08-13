@@ -4,7 +4,7 @@
 
 I am a self-taught software engineer based in Seattle, WA. I have been working in tech for over 15 years.
 
-As of March 2022 I am taking a short to focus on my personal [projects](https://danielesalatti.com/projects) and explore my other interests.
+In March 2022 I decided to take a short break to focus on my personal [projects](https://danielesalatti.com/projects) and explore my other interests. Today am am continuing to do that while working for Gitcoin DAO.
 
 If you want to get in touch or are interested in hiring me, my [contact information is below](#contact).
 
@@ -13,8 +13,9 @@ If you want to get in touch or are interested in hiring me, my [contact informat
 ## What am I working on?
 
 - [Zerokie](https://zerokie.com) - a search engine for products around you
-- [SoulBound NFTs](https://soulbound.app) - the Web3 Membership Protocol
+- [Conviction Voting dApp](https://voting.gitcoin.co/) - using [Conviction Voting](https://convictionvoting.wtf/) to rank grants during Gitcoin funding rounds.
 - [🏰 BuidlGuidl](https://buidlguidl.com/) and [SpeedRunEthereum](https://speedrunethereum.com/) - building and expanding the Ethereum ecosystem with a group of curious and smart devs
+- [DAppNode-optimism] - run a full Optimism node on your dAppNode
 
 ## A brief history
 
@@ -26,7 +27,7 @@ After about 2 years there was an opportunity to move to the Amazon HQ in Seattle
 
 I decided to join [Meta](https://meta.com) (aka Facebook) in December 2020, and I staid there until March 2022.
 
-I'm currently taking some time to learn new things and explore my interests. I'm working on [my projects](https://danielesalatti.com/projects) and making an effort to document it on [my blog](https://danielesalatti.com).
+I then took some time to myself, to learn new things and explore my interests. I'm working on [my projects](https://danielesalatti.com/projects) and making an effort to document it on [my blog](https://danielesalatti.com). In June 2022 I joined [Gitcoin](https://gitcoin.co).
 
 ---
 
