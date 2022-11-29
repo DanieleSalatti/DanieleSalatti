@@ -12,10 +12,11 @@ If you want to get in touch or are interested in hiring me, my [contact informat
 
 ## What am I working on?
 
-- [Zerokie](https://zerokie.com) - a search engine for products around you
-- [Conviction Voting dApp](https://voting.gitcoin.co/) - using [Conviction Voting](https://convictionvoting.wtf/) to rank grants during Gitcoin funding rounds.
+- [Zerokie](https://zerokie.com) - a search engine for products around you 📍
+- [Gitcoin](https://gitcoin.co) - I am part of the team working on [Grants Hub](https://grantshub.gitcoin.co/), one of the components of the new decentralised grants protogol 🌱🫡
+- [🗳️ Conviction Voting dApp](https://voting.gitcoin.co/) - using [Conviction Voting](https://convictionvoting.wtf/) to rank grants during Gitcoin funding rounds
 - [🏰 BuidlGuidl](https://buidlguidl.com/) and [SpeedRunEthereum](https://speedrunethereum.com/) - building and expanding the Ethereum ecosystem with a group of curious and smart devs
-- [DAppNode-optimism] - run a full Optimism node on your dAppNode
+- [DAppNode-optimism](https://github.com/DanieleSalatti/DAppNodePackage-optimism) - run a full Optimism node on your dAppNode
 
 ## A brief history
 
