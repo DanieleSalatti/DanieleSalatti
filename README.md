@@ -34,10 +34,7 @@ I then took some time to myself, to learn new things and explore my interests. I
 
 ## <a name="contact"></a>Get in Touch
 
-1. 🐦 [Twitter](https://twitter.com/DanieleSalatti) - If you have a short question or message, please tweet [@DanieleSalatti](https://twitter.com/DanieleSalatti) and I will get back to you as soon as I can. I don't really reply to Instagram DMs and my Facebook account is not active.
-
-2. 📨 [Email](mailto:me@danielesalatti.com) - If it's a longer thing or you don't want it to be a public tweet, please email me (me@danielesalatti.com). I read 100% of emails but only have enough time to reply to less than 30%. If you reply to my weekly-ish [newsletter](https://newsletter.danielesalatti.com) with a specific question, the chances I'll reply are much higher.
-
+Want to reach out? Get my contact info [here](https://danielesalatti.com/contact-me/).
 ---
 
 ![Daniele's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanieleSalatti&show_icons=true&count_private=true&theme=dark)
