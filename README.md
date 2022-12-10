@@ -35,6 +35,7 @@ I then took some time to myself, to learn new things and explore my interests. I
 ## <a name="contact"></a>Get in Touch
 
 Want to reach out? Get my contact info [here](https://danielesalatti.com/contact-me/).
+
 ---
 
 ![Daniele's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanieleSalatti&show_icons=true&count_private=true&theme=dark)
