@@ -4,7 +4,7 @@
 
 I am a self-taught software engineer based in Seattle, WA. I have been working in tech for over 15 years.
 
-In March 2022 I decided to take a short break to focus on my personal [projects](https://danielesalatti.com/projects) and explore my other interests. Today am am continuing to do that while working for Gitcoin DAO.
+In March 2022 I decided to take a short break to focus on my personal [projects](https://danielesalatti.com/c/projects) and explore my other interests. Today am am continuing to do that while working for Gitcoin DAO.
 
 If you want to get in touch or are interested in hiring me, my [contact information is below](#contact).
 
@@ -12,10 +12,15 @@ If you want to get in touch or are interested in hiring me, my [contact informat
 
 ## What am I working on?
 
+The serious business:
+
+- [The Fractional CTO](https://thefractionalcto.io) - I run a Fractional CTO service for SMBs & Startups making 1-20M a year in revenue. Want to work with me or know more? [Book a call](https://v37.io/t)!
+- [Gitcoin](https://gitcoin.co) - I am part of the team working on the Grant Stack and the Allo Protocol - the new decentralised grants protocol 🌱🫡
 - [Zerokie](https://zerokie.com) - a search engine for products around you 📍
-- [Gitcoin](https://gitcoin.co) - I am part of the team working on [Grants Hub](https://grantshub.gitcoin.co/), one of the components of the new decentralised grants protogol 🌱🫡
-- [🗳️ Conviction Voting dApp](https://voting.gitcoin.co/) - using [Conviction Voting](https://convictionvoting.wtf/) to rank grants during Gitcoin funding rounds
-- [🏰 BuidlGuidl](https://buidlguidl.com/) and [SpeedRunEthereum](https://speedrunethereum.com/) - building and expanding the Ethereum ecosystem with a group of curious and smart devs
+
+The stuff I do for fun:
+
+- [🏰 BuidlGuidl](https://buidlguidl.com/) - building and expanding the Ethereum ecosystem with a group of curious and smart devs
 - [DAppNode-optimism](https://github.com/DanieleSalatti/DAppNodePackage-optimism) - run a full Optimism node on your dAppNode
 
 ## A brief history
@@ -28,13 +33,13 @@ After about 2 years there was an opportunity to move to the Amazon HQ in Seattle
 
 I decided to join [Meta](https://meta.com) (aka Facebook) in December 2020, and I staid there until March 2022.
 
-I then took some time to myself, to learn new things and explore my interests. I'm working on [my projects](https://danielesalatti.com/projects) and making an effort to document it on [my blog](https://danielesalatti.com). In June 2022 I joined [Gitcoin](https://gitcoin.co).
+I then took some time to myself, to learn new things and explore my interests. I'm working on [my projects](https://danielesalatti.com/c/projects) and making an effort to document it on [my blog](https://danielesalatti.com). In June 2022 I joined [Gitcoin](https://gitcoin.co) as a contributor.
 
 ---
 
 ## <a name="contact"></a>Get in Touch
 
-Want to reach out? Get my contact info [here](https://danielesalatti.com/contact-me/).
+Want to reach out? Get my contact info [here](https://danielesalatti.com/c/contact-me/).
 
 ---
 
