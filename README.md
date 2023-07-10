@@ -15,7 +15,6 @@ If you want to get in touch or are interested in hiring me, my [contact informat
 The serious business:
 
 - [The Fractional CTO](https://thefractionalcto.io) - I run a Fractional CTO service for SMBs & Startups making 1-20M a year in revenue. Want to work with me or know more? [Book a call](https://v37.io/t)!
-- [Gitcoin](https://gitcoin.co) - I am part of the team working on the Grant Stack and the Allo Protocol - the new decentralised grants protocol 🌱🫡
 - [Zerokie](https://zerokie.com) - a search engine for products around you 📍
 
 The stuff I do for fun:
