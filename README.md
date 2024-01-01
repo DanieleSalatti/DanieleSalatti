@@ -12,14 +12,7 @@ If you want to get in touch or are interested in hiring me, my [contact informat
 
 ## What am I working on?
 
-The serious business:
-
-- This part coming soon
-  
-The stuff I do for fun:
-
-- [🏰 BuidlGuidl](https://buidlguidl.com/) - building and expanding the Ethereum ecosystem with a group of curious and smart devs
-- [DAppNode-optimism](https://github.com/DanieleSalatti/DAppNodePackage-optimism) - run a full Optimism node on your dAppNode
+Coming soon...
 
 ## A brief history
 
@@ -32,8 +25,6 @@ After about 2 years there was an opportunity to move to the Amazon HQ in Seattle
 I decided to join [Meta](https://meta.com) (aka Facebook) in December 2020, and I staid there until March 2022.
 
 I then took some time to myself, to learn new things and explore my interests. I'm working on [my projects](https://danielesalatti.com/c/projects) and making an effort to document it on [my blog](https://danielesalatti.com).
-
-From June 2022 to June 2023 I was part of [Gitcoin](https://gitcoin.co) as a contributor.
 
 ---
 
