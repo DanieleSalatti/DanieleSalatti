@@ -16,15 +16,17 @@ Coming soon...
 
 ## A brief history
 
-I started learning to code when I was 11. I started my career in software development when I was 16 during summer in high school. Born and raised in [Livorno](https://en.wikipedia.org/wiki/Livorno) - on the western coast of Tuscany, Italy - I worked for a few years as a software engineer at a startup company in nearby Florence. Fun fact: I ended up consulting at Gucci.
+I started learning to code when I was 11. I started my career in software development when I was 16 during summer in high school. Born and raised in [Livorno](https://en.wikipedia.org/wiki/Livorno) - on the coast of Tuscany, Italy - I worked for a few years as a software engineer at a startup company in nearby Florence. Fun fact: I ended up consulting at Gucci.
 
-I wanted to experience life abroad and I decided to move to Copenhagen, Denmark. I lived there for 3 years working for a company called Secunia (later acquired by [Flexera](https://www.flexera.com/products/software-vulnerability-research/secunia-research)) before [Amazon](https://amazon.com) hired me and moved me to Dublin, Ireland.
+I wanted to experience life abroad and I decided to move to Copenhagen, Denmark. I lived there for 3 years working for Secunia (later acquired by [Flexera](https://www.flexera.com/products/software-vulnerability-research/secunia-research)) before [Amazon](https://amazon.com) hired me and moved me to Dublin, Ireland.
 
 After about 2 years there was an opportunity to move to the Amazon HQ in Seattle and I took it. I continued to work for Amazon until August 2020, in the midst of the pandemic, for a total of about 6 years.
 
-I decided to join [Meta](https://meta.com) (aka Facebook) in December 2020, and I staid there until March 2022.
+I decided to join [Meta](https://meta.com) (aka Facebook) in December 2020, and I worked there until March 2022.
 
 I then took some time to myself, to learn new things and explore my interests. I'm working on [my projects](https://danielesalatti.com/c/projects) and making an effort to document it on [my blog](https://danielesalatti.com).
+
+Since then I've been freelancing and collaborating with various companies.
 
 ---
 
