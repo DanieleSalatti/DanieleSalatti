@@ -47,6 +47,7 @@ Want to reach out? Get my contact info [here](https://danielesalatti.com/c/conta
 
 
 <!-- 
+
 <details>
   <summary>🇮🇹 Clicca per leggere</summary>
   
