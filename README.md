@@ -32,7 +32,7 @@ Since then I've been freelancing and collaborating with various companies.
 
 ## <a name="contact"></a>Get in Touch
 
-Want to reach out? Get my contact info [here](https://danielesalatti.com/c/contact-me/).
+You can reach me at d@v37.io
 
 ---
 
