@@ -34,13 +34,9 @@ In November 2024 I joined [The Trade Desk](https://thetradedesk.com)
 
 ## <a name="contact"></a>Get in Touch
 
-You can reach me at d@v37.io
+You can reach me at d@v37.
 
----
-
-![Daniele's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanieleSalatti&show_icons=true&count_private=true&theme=dark)
-
-![](https://ghvc.kabelkultur.se?username=your-username)
+![](https://ghvc.kabelkultur.se?username=DanieleSalatti)
 
 <!-- 
 
