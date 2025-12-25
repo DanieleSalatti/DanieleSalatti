@@ -4,7 +4,7 @@
 
 I am a self-taught software engineer based in Seattle, WA. I have been working in tech for over 15 years.
 
-In March 2022 I decided to take a short break to focus on my personal [projects](https://danielesalatti.com/projects) and explore my other interests. Today I am continuing to do that while growing my business.
+In March 2022 I decided to take a short break to focus on my personal projects and explore my other interests. Today I am continuing to do that while growing my business.
 
 If you want to get in touch or are interested in hiring me, my [contact information is below](#contact).
 
